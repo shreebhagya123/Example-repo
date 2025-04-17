@@ -1,2 +1,3 @@
-# Example-repo
-this is a first repo
+# Example-repository
+this is a first repository
+author-Bhagyashree
